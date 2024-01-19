@@ -24,3 +24,15 @@ Adatok törlése: Egy másik új funkció lehetne az adatok listából történ�
 Adatok hozzáadása: Egy további funkció lehetne az adatok listához új elemek hozzáadása.
 
 Adatok rendezése: A programba be lehetne építeni egy funkciót, amely rendezni tudja az adatok listát különböző szempontok alapján, például évszám szerint növekvő vagy csökkenő sorrendben.
+***
+## Források (sorrendben)
+1. https://hu.wikipedia.org/wiki/V%C3%ADzker%C3%A9k#:~:text=A%20v%C3%ADzker%C3%A9k%20(vagy%20v%C3%ADziker%C3%A9k)%20g%C3%A9pek,a%20legt%C3%B6bb%20%C3%BCzem%20energiasz%C3%BCks%C3%A9glet%C3%A9t%20biztos%C3%ADtotta.
+2. https://hu.wikipedia.org/wiki/Textilanyagok_kik%C3%A9sz%C3%ADt%C3%A9se
+3. https://hu.wikipedia.org/wiki/Fon%C3%A1s
+4. https://hu.wikipedia.org/wiki/G%C5%91zg%C3%A9p
+5. https://hu.wikipedia.org/wiki/A_vas%C3%BAt_t%C3%B6rt%C3%A9nete
+6. https://hu.wikipedia.org/wiki/Ac%C3%A9lgy%C3%A1rt%C3%A1s
+7. https://hu.wikipedia.org/wiki/Dinam%C3%B3
+8. - (szintén acélgyártás wiki)
+9. https://hu.wikipedia.org/wiki/Mobiltelefon
+10. https://hu.wikipedia.org/wiki/Izz%C3%B3l%C3%A1mpa
