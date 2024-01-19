@@ -1,6 +1,6 @@
-#IKT Feladat
-<hr>
-##Program működése
+# IKT Feladat
+***
+## Program működése
 Ez a program egy menüből választható opciókat kínál a felhasználónak, amelyek lehetővé teszik a adatok listában tárolt információk megjelenítését és manipulálását.
 
 > Adatok listázása: Ha a felhasználó az első opciót választja, a program végigiterál az adatok listán, és minden elemet kiír a konzolra, a lista elemeit kötőjellel elválasztva.
@@ -11,7 +11,7 @@ Ez a program egy menüből választható opciókat kínál a felhasználónak, a
 
 A programot úgy kell használni, hogy a felhasználó beírja a kívánt menüpont számát, majd követi a program utasításait.
 
-<hr>
+***
 ## Ötletek a programhoz
 Hibakezelés: A programban lehetne hibakezelést beépíteni, hogy a felhasználó által megadott bemenetek helyesek-e. Például, ha a felhasználó nem számot ad meg a menüpont kiválasztásakor, vagy ha a megadott évszámok nem érvényesek.
 
