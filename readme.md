@@ -36,3 +36,13 @@ Adatok rendezése: A programba be lehetne építeni egy funkciót, amely rendezn
 8. - (szintén acélgyártás wiki)
 9. https://hu.wikipedia.org/wiki/Mobiltelefon
 10. https://hu.wikipedia.org/wiki/Izz%C3%B3l%C3%A1mpa
+11. https://hu.wikipedia.org/wiki/R%C3%A1di%C3%B3z%C3%A1s
+12. https://hu.wikipedia.org/wiki/Rep%C3%BCl%C5%91g%C3%A9p
+13. https://hu.wikipedia.org/wiki/Ford_T-modell
+14. https://hu.wikipedia.org/wiki/Fut%C3%B3szalag_(gy%C3%A1rt%C3%A1s)
+15. https://hu.wikipedia.org/wiki/Mez%C5%91gazdas%C3%A1gi_vontat%C3%B3
+16. https://hu.wikipedia.org/wiki/Mikroelektronika
+17. https://hu.wikipedia.org/wiki/ARPANET
+18. https://hu.wikipedia.org/wiki/Asztali_sz%C3%A1m%C3%ADt%C3%B3g%C3%A9p
+19. https://hu.wikipedia.org/wiki/Mobiltelefon
+20. https://hu.wikipedia.org/wiki/Szem%C3%A9lyi_sz%C3%A1m%C3%ADt%C3%B3g%C3%A9p
